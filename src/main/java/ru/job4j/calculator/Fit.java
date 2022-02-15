@@ -1,4 +1,4 @@
-package main.java.ru.job4j.calculator;
+package java.ru.job4j.calculator;
 
 public class Fit {
     public static double manWeight(short height) {

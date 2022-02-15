@@ -1,6 +1,6 @@
-package test.java.ru.job4j.converter;
+package java.ru.job4j.converter;
 
-import main.java.ru.job4j.converter.Converter;
+import java.ru.job4j.converter.Converter;
 import org.junit.Test;
 import org.junit.Assert;
 

@@ -1,6 +1,6 @@
-package test.java.ru.job4j.loop;
+package java.ru.job4j.loop;
 
-import main.java.ru.job4j.loop.PrimeNumber;
+import java.ru.job4j.loop.PrimeNumber;
 import org.junit.Assert;
 import org.junit.Test;
 

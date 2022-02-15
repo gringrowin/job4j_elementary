@@ -1,4 +1,4 @@
-package main.java.ru.job4j.loop;
+package java.ru.job4j.loop;
 
 public class Slash {
     public static void draw(int size) {

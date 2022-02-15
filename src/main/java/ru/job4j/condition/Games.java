@@ -1,4 +1,4 @@
-package main.java.ru.job4j.condition;
+package java.ru.job4j.condition;
 
 public class Games {
     public static void permission(boolean allowByParent, boolean hasMoney) {
