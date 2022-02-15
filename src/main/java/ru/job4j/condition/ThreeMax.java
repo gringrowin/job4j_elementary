@@ -1,4 +1,4 @@
-package ru.job4j.condition;
+package main.java.ru.job4j.condition;
 
 public class ThreeMax {
     public static int max(int first, int second, int third) {

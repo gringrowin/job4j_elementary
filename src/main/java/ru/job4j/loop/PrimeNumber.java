@@ -1,4 +1,4 @@
-package ru.job4j.loop;
+package main.java.ru.job4j.loop;
 
 public class PrimeNumber {
     public static int calc(int finish) {

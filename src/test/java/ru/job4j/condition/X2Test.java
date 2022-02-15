@@ -1,5 +1,6 @@
-package ru.job4j.condition;
+package test.java.ru.job4j.condition;
 
+import main.java.ru.job4j.condition.X2;
 import org.junit.Assert;
 import org.junit.Test;
 

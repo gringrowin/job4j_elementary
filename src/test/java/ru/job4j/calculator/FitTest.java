@@ -1,5 +1,6 @@
-package ru.job4j.calculator;
+package test.java.ru.job4j.calculator;
 
+import main.java.ru.job4j.calculator.Fit;
 import org.junit.Assert;
 import org.junit.Test;
 

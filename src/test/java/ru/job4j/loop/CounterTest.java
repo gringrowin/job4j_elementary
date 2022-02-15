@@ -1,5 +1,6 @@
-package ru.job4j.loop;
+package test.java.ru.job4j.loop;
 
+import main.java.ru.job4j.loop.Counter;
 import org.junit.Assert;
 import org.junit.Test;
 
