@@ -16,7 +16,7 @@ public class SwitchArrayTest {
     }
 
     @Test
-    public void whenSwap1to5() {
+    public void whenSwap1to4() {
         int[] input = {1, 2, 3, 4, 5, 6};
         int source = 1;
         int dest = input.length - 2;
