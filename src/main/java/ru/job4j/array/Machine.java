@@ -16,7 +16,6 @@ public class Machine {
                 dif = dif - coin;
             }
         }
-
         return Arrays.copyOf(rsl, size);
     }
 }
