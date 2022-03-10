@@ -1,4 +1,4 @@
-package ru.job4j.inheritance;
+package ru.job4j.inheritance.prof;
 
 public class Builder extends Engineer {
 
@@ -16,5 +16,4 @@ public class Builder extends Engineer {
         building.setCompleted(true);
         return building;
     }
-
 }
